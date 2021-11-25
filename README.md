@@ -5,9 +5,10 @@
 
 <div align="center">
   <a href="https://github.com/ElaineMolina">
- <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ElaineMolina&theme=dracula&show_icons=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElaineMolina&layout=compact&langs_count=7&theme=dracula"/>
- 
+   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ElaineMolina&show_icons=true&theme=dracula"/>
+
+
+
 
 </div>
   
