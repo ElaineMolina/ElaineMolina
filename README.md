@@ -1,7 +1,7 @@
 ### Olá, sou Elaine Molina 👋🏻
 
 - 🌱 Estudando Java, Javascript e Typescript
-- 📫 Contate-me no email: elainemolina10@gmail.com
+- 📫 email: elainemolina10@gmail.com
 
 <div align="center">
   <a href="https://github.com/ElaineMolina">
