@@ -1,6 +1,6 @@
 ### Olá, sou Elaine Molina 👋🏻
 
-- 🌱 Estudando e aprendendo Java, SpringBoot e MySQL
+- 🌱 Estudando e aprendendo Java, SpringBoot, MySQL e Angular
 - 📫 email: molinaelaine10@gmail.com
 
 
