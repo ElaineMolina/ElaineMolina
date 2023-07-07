@@ -2,7 +2,7 @@
 
 - 🌱 Estudando e aprendendo...
 - 📫 email: molinaelaine10@gmail.com
-- <a href="https://www.linkedin.com/in/www.linkedin.com/in/molinaelaine10" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+- <a href="https://www.linkedin.com/in/molinaelaine10/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 </div>
   <div style="display: inline_block"><br>
