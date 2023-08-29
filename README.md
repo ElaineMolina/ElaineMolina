@@ -30,8 +30,7 @@
  
 <div>
 <a href="https://github.com/ElaineMolina">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElaineMolina&layout=compact&langs_count=7&theme=dracula"/>
-
+<img height="300" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElaineMolina&layout=compact&langs_count=7&theme=dracula&show_progress=true">
 </div>
 
                                                                                                                                              
